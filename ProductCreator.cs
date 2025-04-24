@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+    // Đây là dòng test
+
     public abstract class ProductCreator
     {
         public abstract IDigitalProduct CreateProduct();
